@@ -1,4 +1,4 @@
-# 🚀 Connect Presensi
+# Connect Presensi
 
 ### *Smart Attendance System with Multi-Factor Authentication & AI Assistant*
 
